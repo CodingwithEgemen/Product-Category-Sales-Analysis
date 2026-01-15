@@ -1,4 +1,4 @@
-# Google Sheets Product Category Sales Analysis – Coast & Weekend Impact
+# Product Category Sales Analysis – Coast & Weekend Impact
 <img width="509" height="342" alt="sales kapak" src="https://github.com/user-attachments/assets/0ee02520-8b13-4548-960c-46a55a32c675" />
 
 ## 📌 Project Overview
